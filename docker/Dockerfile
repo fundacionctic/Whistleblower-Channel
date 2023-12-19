@@ -7,7 +7,7 @@ RUN apt-get update -q && \
 
 RUN wget https://deb.globaleaks.org/install-globaleaks.sh
 RUN chmod +x install-globaleaks.sh
-RUN ./install-globaleaks.sh -y -n
+RUN ./install-globaleaks.sh -y -n -v 4.13.22 all
 
 RUN apt-get update -q && \
     apt-get install -y globaleaks && \
