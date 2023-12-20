@@ -5,9 +5,13 @@ RUN apt-get update -q && \
     apt-get clean && \
     rm -rf /var/lib/apt/lists/*
 
-RUN wget https://deb.globaleaks.org/install-globaleaks.sh
-RUN chmod +x install-globaleaks.sh
-RUN ./install-globaleaks.sh -y -n -v 4.13.22 all
+COPY debs ./globaleaks/deb
+
+COPY scripts/install.sh ./
+
+# RUN wget https://deb.globaleaks.org/install-globaleaks.sh
+RUN chmod +x install.sh
+RUN ./install.sh -y -n
 
 RUN apt-get update -q && \
     apt-get install -y globaleaks && \
