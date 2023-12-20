@@ -1,0 +1,204 @@
+Package: globaleaks
+Architecture: all
+Version: 4.13.11
+Priority: optional
+Section: web
+Maintainer: Giovanni Pellerano <giovanni.pellerano@globaleaks.org>
+Installed-Size: 87159
+Depends: python3:any, adduser, apparmor, apparmor-utils, gnupg, iptables, lsb-base, python3-acme, python3-debian, python3-cryptography, python3-h2, python3-nacl, python3-openssl, python3-gnupg, python3-priority, python3-pyotp, python3-sqlalchemy, python3-twisted, python3-txtorcon, tor
+Filename: bookworm/globaleaks_4.13.11_all.deb
+Size: 69988832
+SHA256: a1bf886785be7549cb8ee6bd9582d08db6af6621458328239af4b7bf79c923a2
+SHA512: ba7a9fa800593da7d77d487c79b65f2b9eb079bf0ebd1d59b0a8da6e8770d5866ac77001a0877ebc8429c178dcddb706a6fa5bb3b5904f9c5e3b7420263a4088
+Homepage: https://www.globaleaks.org/
+Description: Free and open-source whistleblowing software
+ GlobaLeaks is free, open source software enabling anyone to easily set up and
+ maintain a secure whistleblowing platform
+
+Package: globaleaks
+Architecture: all
+Version: 4.13.12
+Priority: optional
+Section: web
+Maintainer: Giovanni Pellerano <giovanni.pellerano@globaleaks.org>
+Installed-Size: 87176
+Depends: python3:any, adduser, apparmor, apparmor-utils, gnupg, iptables, lsb-base, python3-acme, python3-debian, python3-cryptography, python3-h2, python3-nacl, python3-openssl, python3-gnupg, python3-priority, python3-pyotp, python3-sqlalchemy, python3-twisted, python3-txtorcon, tor
+Filename: bookworm/globaleaks_4.13.12_all.deb
+Size: 69990280
+SHA256: e88e3a8fe48f8739a884dcd10076d6e0fa2b84dc805db7d8f3145ce92e532755
+SHA512: c05324d28e9a97a97a0b843d50dbdc45f6363bd0608605ef13b5647886716004cda69ae160d46ea34ef86d831fcf5d51cad0129cf0dcc3a0151a8534b5264be3
+Homepage: https://www.globaleaks.org/
+Description: Free and open-source whistleblowing software
+ GlobaLeaks is free, open source software enabling anyone to easily set up and
+ maintain a secure whistleblowing platform
+
+Package: globaleaks
+Architecture: all
+Version: 4.13.13
+Priority: optional
+Section: web
+Maintainer: Giovanni Pellerano <giovanni.pellerano@globaleaks.org>
+Installed-Size: 99648
+Depends: python3:any, adduser, apparmor, apparmor-utils, gnupg, iptables, lsb-base, python3-acme, python3-debian, python3-cryptography, python3-h2, python3-nacl, python3-openssl, python3-gnupg, python3-priority, python3-pyotp, python3-sqlalchemy, python3-twisted, python3-txtorcon, tor
+Filename: bookworm/globaleaks_4.13.13_all.deb
+Size: 82955292
+SHA256: 9d9656f1ef7c188d2c92fe7169a98c77dc252c873ab29b1b654aa6ebec970da5
+SHA512: ced6b3699eea601177b9beeaa6009f9b260c0acf0e177401aba3bc6bd8b1c23a1f93b2862eb65a5eb1dd22231bcc6d653b2e565437117abcace4992e625b3ce4
+Homepage: https://www.globaleaks.org/
+Description: Free and open-source whistleblowing software
+ GlobaLeaks is free, open source software enabling anyone to easily set up and
+ maintain a secure whistleblowing platform
+
+Package: globaleaks
+Architecture: all
+Version: 4.13.14
+Priority: optional
+Section: web
+Maintainer: Giovanni Pellerano <giovanni.pellerano@globaleaks.org>
+Installed-Size: 99608
+Depends: python3:any, adduser, apparmor, apparmor-utils, gnupg, iptables, lsb-base, python3-acme, python3-debian, python3-cryptography, python3-h2, python3-nacl, python3-openssl, python3-gnupg, python3-priority, python3-pyotp, python3-sqlalchemy, python3-twisted, python3-txtorcon, tor
+Filename: bookworm/globaleaks_4.13.14_all.deb
+Size: 82940212
+SHA256: 5d8b36422489fda34b302a7adec699bd9ad66a5f342092b01f38a31e7889947e
+SHA512: fec6390a5359cccf85059395605192d35311f1baf0a528a5909d11582fc7d649259255f988266aba29e87d467002d1496652d88dea02c1884a70ef0deeb6706f
+Homepage: https://www.globaleaks.org/
+Description: Free and open-source whistleblowing software
+ GlobaLeaks is free, open source software enabling anyone to easily set up and
+ maintain a secure whistleblowing platform
+
+Package: globaleaks
+Architecture: all
+Version: 4.13.15
+Priority: optional
+Section: web
+Maintainer: Giovanni Pellerano <giovanni.pellerano@globaleaks.org>
+Installed-Size: 99574
+Depends: python3:any, adduser, apparmor, apparmor-utils, gnupg, iptables, lsb-base, python3-acme, python3-debian, python3-cryptography, python3-h2, python3-nacl, python3-openssl, python3-gnupg, python3-priority, python3-pyotp, python3-sqlalchemy, python3-twisted, python3-txtorcon, tor
+Filename: bookworm/globaleaks_4.13.15_all.deb
+Size: 82935232
+SHA256: 7f2ece811e651c38478ad9abbb7e91aa13bca92335b3b22386af394e0830e126
+SHA512: 977e732b70a212ba85b1582b1c25d6d83a7f75ac9fea53f0499e85bf9fb065387bb1dc922a041b7cd26273c4412c29570d35144fef2db8d3d746a588196b450c
+Homepage: https://www.globaleaks.org/
+Description: Free and open-source whistleblowing software
+ GlobaLeaks is free, open source software enabling anyone to easily set up and
+ maintain a secure whistleblowing platform
+
+Package: globaleaks
+Architecture: all
+Version: 4.13.16
+Priority: optional
+Section: web
+Maintainer: Giovanni Pellerano <giovanni.pellerano@globaleaks.org>
+Installed-Size: 99574
+Depends: python3:any, adduser, apparmor, apparmor-utils, gnupg, iptables, lsb-base, python3-acme, python3-debian, python3-cryptography, python3-h2, python3-nacl, python3-openssl, python3-gnupg, python3-priority, python3-pyotp, python3-sqlalchemy, python3-twisted, python3-txtorcon, tor
+Filename: bookworm/globaleaks_4.13.16_all.deb
+Size: 82935980
+SHA256: 68bd2b592ef0b38427e2ad54bc0be0d95cd011917256b3641749ed0e6c039a34
+SHA512: 65e44e4f2646ed8af5c20b20c116abf1569df1d30a5313140af21cd04129dee373d9a361c604d617436b866c88a94f2e5bf813b94dae5e54c8f42ebd64f65bae
+Homepage: https://www.globaleaks.org/
+Description: Free and open-source whistleblowing software
+ GlobaLeaks is free, open source software enabling anyone to easily set up and
+ maintain a secure whistleblowing platform
+
+Package: globaleaks
+Architecture: all
+Version: 4.13.17
+Priority: optional
+Section: web
+Maintainer: Giovanni Pellerano <giovanni.pellerano@globaleaks.org>
+Installed-Size: 99582
+Depends: python3:any, adduser, apparmor, apparmor-utils, gnupg, iptables, lsb-base, python3-acme, python3-debian, python3-cryptography, python3-h2, python3-nacl, python3-openssl, python3-gnupg, python3-priority, python3-pyotp, python3-sqlalchemy, python3-twisted, python3-txtorcon, tor
+Filename: bookworm/globaleaks_4.13.17_all.deb
+Size: 82936612
+SHA256: 02a298a0d0af4b0bacca7a52637a0b5f27636ce575411f89ce0080267dcf6058
+SHA512: 570139380782d12e7dcc4ab9a66f9358ab56c5584fc9d52a3e728a44ed713eb572f27ae77af819caf69146eb7c0a2b33ec21c04cda65bdeb409b7212bc038b44
+Homepage: https://www.globaleaks.org/
+Description: Free and open-source whistleblowing software
+ GlobaLeaks is free, open source software enabling anyone to easily set up and
+ maintain a secure whistleblowing platform
+
+Package: globaleaks
+Architecture: all
+Version: 4.13.18
+Priority: optional
+Section: web
+Maintainer: Giovanni Pellerano <giovanni.pellerano@globaleaks.org>
+Installed-Size: 98198
+Depends: python3:any, adduser, apparmor, apparmor-utils, gnupg, iptables, lsb-base, python3-acme, python3-debian, python3-cryptography, python3-h2, python3-nacl, python3-openssl, python3-gnupg, python3-priority, python3-pyotp, python3-sqlalchemy, python3-twisted, python3-txtorcon, tor
+Filename: bookworm/globaleaks_4.13.18_all.deb
+Size: 82634844
+SHA256: bde263646071abad1036070977de9a6c40190560cc862b8aa1b11230e0489bae
+SHA512: 9ba772543f11fd3b714c386b3e15f37921b6802c245e9e159479f15edef1eb49b4a6ce65b19f6e08261d3a120afb10efb95b0b5f6a746b79592370a283e9b8c6
+Homepage: https://www.globaleaks.org/
+Description: Free and open-source whistleblowing software
+ GlobaLeaks is free, open source software enabling anyone to easily set up and
+ maintain a secure whistleblowing platform
+
+Package: globaleaks
+Architecture: all
+Version: 4.13.19
+Priority: optional
+Section: web
+Maintainer: Giovanni Pellerano <giovanni.pellerano@globaleaks.org>
+Installed-Size: 98204
+Depends: python3:any, adduser, apparmor, apparmor-utils, gnupg, iptables, lsb-base, python3-acme, python3-debian, python3-cryptography, python3-h2, python3-nacl, python3-openssl, python3-gnupg, python3-priority, python3-pyotp, python3-sqlalchemy, python3-twisted, python3-txtorcon, tor
+Filename: bookworm/globaleaks_4.13.19_all.deb
+Size: 82635920
+SHA256: 4a560e95b4c7bfdd7bb1643092c3e8ce61c60d1cbc052a29b5b023f861e6ad36
+SHA512: 5537bcfe7d1fda08756b9354582abc9c29881ea12381a7a277a5e9fb5b867d8ba49c26a61b11e2501435d099de1e419b6f54e5a9a965628bce8152a59587e9b2
+Homepage: https://www.globaleaks.org/
+Description: Free and open-source whistleblowing software
+ GlobaLeaks is free, open source software enabling anyone to easily set up and
+ maintain a secure whistleblowing platform
+
+Package: globaleaks
+Architecture: all
+Version: 4.13.20
+Priority: optional
+Section: web
+Maintainer: Giovanni Pellerano <giovanni.pellerano@globaleaks.org>
+Installed-Size: 98204
+Depends: python3:any, adduser, apparmor, apparmor-utils, gnupg, iptables, lsb-base, python3-acme, python3-debian, python3-cryptography, python3-h2, python3-nacl, python3-openssl, python3-gnupg, python3-priority, python3-pyotp, python3-sqlalchemy, python3-twisted, python3-txtorcon, tor
+Filename: bookworm/globaleaks_4.13.20_all.deb
+Size: 82634904
+SHA256: 7a27d62cff458804ef3287075f2c7fdd9819b34609f2a90eb3126aa0dcfdf481
+SHA512: ebcc07dfb4a00eaeee01de7802bf8988e181e6781cf1bf28ae47f71af9d2d122bc0a6429c4abccf3436af27773ce090d54f936c8e02cc2450935a5505952e40b
+Homepage: https://www.globaleaks.org/
+Description: Free and open-source whistleblowing software
+ GlobaLeaks is free, open source software enabling anyone to easily set up and
+ maintain a secure whistleblowing platform
+
+Package: globaleaks
+Architecture: all
+Version: 4.13.21
+Priority: optional
+Section: web
+Maintainer: Giovanni Pellerano <giovanni.pellerano@globaleaks.org>
+Installed-Size: 98204
+Depends: python3:any, adduser, apparmor, apparmor-utils, gnupg, iptables, lsb-base, python3-acme, python3-debian, python3-cryptography, python3-h2, python3-nacl, python3-openssl, python3-gnupg, python3-priority, python3-pyotp, python3-sqlalchemy, python3-twisted, python3-txtorcon, tor
+Filename: bookworm/globaleaks_4.13.21_all.deb
+Size: 82635944
+SHA256: 460dc6cf3100d82b0f76c8f83f15ed32225e97c0b4ea336e16dfbbc17e6a84df
+SHA512: 010a0a849a4563133628758497d92f67ad962504df5c17ee755b1e5c5ffacbfed98331d55d9f3d90511818437d18160f1ff438e172bf7f2dbdafb5ec849d161d
+Homepage: https://www.globaleaks.org/
+Description: Free and open-source whistleblowing software
+ GlobaLeaks is free, open source software enabling anyone to easily set up and
+ maintain a secure whistleblowing platform
+
+Package: globaleaks
+Architecture: all
+Version: 4.13.22
+Priority: optional
+Section: web
+Maintainer: Giovanni Pellerano <giovanni.pellerano@globaleaks.org>
+Installed-Size: 98197
+Depends: python3:any, adduser, apparmor, apparmor-utils, gnupg, iptables, lsb-base, python3-acme, python3-debian, python3-cryptography, python3-h2, python3-nacl, python3-openssl, python3-gnupg, python3-priority, python3-pyotp, python3-sqlalchemy, python3-twisted, python3-txtorcon, tor
+Filename: bookworm/globaleaks_4.13.22_all.deb
+Size: 82634368
+SHA256: 7837aeed6d4b6d64f035b1d92b221fed313018bda7b3bf765a78ecaa1bc8e41f
+SHA512: e5fa64becdfdcab39f874740acad6e23d5eef5bb72dd9dcd559d5053dec59ca5a3e5c72c439f3233fd314d730752b1aad57893cb7ecc3c505808f205042d5474
+Homepage: https://www.globaleaks.org/
+Description: Free and open-source whistleblowing software
+ GlobaLeaks is free, open source software enabling anyone to easily set up and
+ maintain a secure whistleblowing platform
+

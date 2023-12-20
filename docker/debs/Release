@@ -1,0 +1,14 @@
+Origin: Hermes
+Label: GlobaLeaks Debian Buster Repository
+Suite: bookworm
+Codename: bookworm
+Date: Fri, 15 Dec 2023 13:57:45 UTC
+Architectures: all amd64
+Acquire-By-Hash: yes
+SHA256:
+ 7114abda9173b665eb12f9091e6225de941067670b440385a73ac6b9dc10149f           11424 Packages
+ 2fb9a5c515e529bb568191554202045efb19c20dcd3c4ae434e63e2a409ff0b0            1996 Packages.xz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855               0 Sources
+ 0040f94d11d0039505328a90b2ff48968db873e9e7967307631bf40ef5679275              32 Sources.xz
+ 9e177318187b2653658cfc8af1e4355faca62ff4b026fdf3a89ba13f770ad490          248556 Contents-amd64
+ 59b9326b8a5cd06336ee2c29b8e2e09f31c4b4f3b2b296d772019309171d8aa1            6660 Contents-amd64.xz
