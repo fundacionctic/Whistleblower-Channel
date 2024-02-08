@@ -80,7 +80,7 @@ GL.mockEngine.addMock("*", "#FooterBox", function(elem) {
   var ret = "<div class='row'>";
 
   
-    ret += "<div class='col-md-4 text-center'><a rel='noreferrer noopener' href='https://www.fundacionctic.org/es/normativa-y-procedimiento-del-canal-interno-de-informacion'>Normativa y procedimiento</a></div>";
+    ret += "<div class='col-md-4 text-center'><a rel='noreferrer noopener' href='https://www.fundacionctic.org/es/normativa-y-procedimiento-del-canal-interno-de-informacion' target='_blank'>Normativa y procedimiento</a></div>";
     ret += "<div class='col-md-4 text-center'>Fundación CTIC</div>";
     ret += "<div class='col-md-4 text-center'><span>Powered by <a rel='noreferrer noopener' href='https://www.globaleaks.org/'>GlobaLeaks</a>.</span></div>";
         
