@@ -5,7 +5,7 @@ RUN apt-get update -q && \
     apt-get install -y apt-utils wget lsb-release && \
     wget https://deb.globaleaks.org/install-globaleaks.sh && \
     chmod +x install-globaleaks.sh && \
-    ./install-globaleaks.sh -y -n && \
+    ./install-globaleaks.sh -y -n -v 5.0.15 && \
     apt-get clean && \
     rm -rf /var/lib/apt/lists/*
 
