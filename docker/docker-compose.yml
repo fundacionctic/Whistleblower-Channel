@@ -5,6 +5,14 @@ services:
     build: .
     restart: unless-stopped
     container_name: globaleaks
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.whistleblower.rule=Host(`whistleblower.readerasturias.org`, `www.whistleblower.readerasturias.org`)"
+      - "traefik.http.routers.whistleblower.entrypoints=websecure"
+      - "traefik.http.routers.whistleblower.tls=true"
+      - "traefik.http.routers.whistleblower.tls.certresolver=letsencrypt"
+      - "traefik.http.routers.whistleblower.tls.domains[0].main=whistleblower.readerasturias.org"
+      - "traefik.http.routers.whistleblower.tls.domains[0].sans=www.whistleblower.readerasturias.org"
     network_mode: bridge
     volumes:
       - ./volumes/globaleaks:/var/globaleaks
